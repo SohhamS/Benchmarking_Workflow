@@ -1,0 +1,674 @@
+log_bundle_id,log_bundle_size,total_time_taken,event_name
+523.0,3740.0,00:01:16,Parsing
+523.0,3740.0,00:00:07,Caching
+523.0,3740.0,00:00:03,Dashboard Processing
+523.0,3740.0,00:00:06,Panacea 1 Processing
+523.0,3740.0,00:00:05,Log Anomaly Processing
+523.0,3740.0,00:00:01,LLM Summary Processing
+523.0,3740.0,00:01:56,Total Time
+523.0,3740.0,00:00:09,Extracting
+523.0,3740.0,00:00:07,Downloading
+523.0,3740.0,00:01:10,Logs Parsing
+523.0,3740.0,00:01:16,Metrics Parsing
+582.0,212.0,00:00:06,Downloading
+582.0,212.0,00:00:02,Extracting
+582.0,212.0,00:00:00,Metrics Parsing
+582.0,212.0,00:00:37,Logs Parsing
+582.0,212.0,00:00:38,Parsing
+582.0,212.0,00:00:04,Caching
+582.0,212.0,00:00:03,Dashboard Processing
+582.0,212.0,00:01:02,Total Time
+582.0,212.0,00:00:03,LLM Summary Processing
+582.0,212.0,00:00:03,Log Anomaly Processing
+582.0,212.0,00:00:03,Panacea 1 Processing
+584.0,29726.0,00:13:43,Total Time
+584.0,29726.0,00:00:02,LLM Summary Processing
+584.0,29726.0,00:00:05,Log Anomaly Processing
+584.0,29726.0,00:00:03,Panacea 1 Processing
+584.0,29726.0,00:00:07,Dashboard Processing
+584.0,29726.0,00:00:42,Caching
+584.0,29726.0,00:11:55,Parsing
+584.0,29726.0,00:11:53,Logs Parsing
+584.0,29726.0,00:02:17,Metrics Parsing
+584.0,29726.0,00:00:39,Extracting
+584.0,29726.0,00:00:09,Downloading
+585.0,1399.0,00:00:05,Downloading
+585.0,1399.0,00:00:04,Extracting
+585.0,1399.0,00:00:00,Metrics Parsing
+585.0,1399.0,00:01:11,Logs Parsing
+585.0,1399.0,00:01:13,Parsing
+585.0,1399.0,00:00:06,Caching
+585.0,1399.0,00:00:03,Dashboard Processing
+585.0,1399.0,00:00:03,Panacea 1 Processing
+585.0,1399.0,00:00:03,Log Anomaly Processing
+585.0,1399.0,00:00:01,LLM Summary Processing
+585.0,1399.0,00:01:40,Total Time
+589.0,27248.0,00:00:10,Downloading
+589.0,27248.0,00:00:35,Extracting
+589.0,27248.0,00:03:52,Logs Parsing
+589.0,27248.0,00:04:20,Metrics Parsing
+589.0,27248.0,00:04:23,Parsing
+589.0,27248.0,00:00:15,Caching
+589.0,27248.0,00:00:08,Dashboard Processing
+589.0,27248.0,00:00:03,Panacea 1 Processing
+589.0,27248.0,00:00:04,Log Anomaly Processing
+589.0,27248.0,00:00:02,LLM Summary Processing
+589.0,27248.0,00:05:41,Total Time
+590.0,37.0,00:00:02,Downloading
+590.0,37.0,00:00:00,Extracting
+590.0,37.0,00:00:00,Metrics Parsing
+590.0,37.0,00:00:07,Logs Parsing
+590.0,37.0,00:00:09,Parsing
+590.0,37.0,00:00:04,Caching
+590.0,37.0,00:00:03,Dashboard Processing
+590.0,37.0,00:00:02,Panacea 1 Processing
+590.0,37.0,00:00:04,Log Anomaly Processing
+590.0,37.0,00:00:02,LLM Summary Processing
+590.0,37.0,00:00:26,Total Time
+591.0,7393.0,00:00:09,Downloading
+591.0,7393.0,00:00:10,Extracting
+591.0,7393.0,00:00:00,Metrics Parsing
+591.0,7393.0,00:03:29,Logs Parsing
+591.0,7393.0,00:03:31,Parsing
+591.0,7393.0,00:00:08,Caching
+591.0,7393.0,00:00:16,Dashboard Processing
+591.0,7393.0,00:00:03,Panacea 1 Processing
+591.0,7393.0,00:00:06,Log Anomaly Processing
+591.0,7393.0,00:00:01,LLM Summary Processing
+591.0,7393.0,00:04:25,Total Time
+592.0,291.0,00:00:04,Downloading
+592.0,291.0,00:00:03,Extracting
+592.0,291.0,00:00:00,Metrics Parsing
+592.0,291.0,00:00:45,Logs Parsing
+592.0,291.0,00:00:46,Parsing
+592.0,291.0,00:00:04,Caching
+592.0,291.0,00:00:04,Dashboard Processing
+592.0,291.0,00:00:02,Panacea 1 Processing
+592.0,291.0,00:00:05,Log Anomaly Processing
+592.0,291.0,00:00:01,LLM Summary Processing
+592.0,291.0,00:01:10,Total Time
+603.0,11907.0,00:00:00,Downloading
+603.0,11907.0,00:01:41,Extracting
+603.0,11907.0,00:06:05,Metrics Parsing
+603.0,11907.0,00:14:39,Logs Parsing
+603.0,11907.0,00:14:44,Parsing
+603.0,11907.0,00:01:35,Caching
+603.0,11907.0,00:00:15,Dashboard Processing
+603.0,11907.0,00:00:03,Panacea 1 Processing
+603.0,11907.0,00:00:07,Log Anomaly Processing
+603.0,11907.0,00:00:01,LLM Summary Processing
+603.0,11907.0,00:18:32,Total Time
+612.0,29422.0,00:05:22,Downloading
+612.0,29422.0,00:01:11,Extracting
+612.0,29422.0,00:05:09,Logs Parsing
+612.0,29422.0,00:24:03,Metrics Parsing
+612.0,29422.0,00:24:04,Parsing
+612.0,29422.0,00:00:23,Caching
+612.0,29422.0,00:00:24,Dashboard Processing
+612.0,29422.0,00:00:03,Panacea 1 Processing
+612.0,29422.0,00:00:42,Log Anomaly Processing
+612.0,29422.0,00:04:33,LLM Summary Processing
+612.0,29422.0,00:36:44,Total Time
+613.0,50.0,00:00:03,Downloading
+613.0,50.0,00:00:00,Extracting
+613.0,50.0,00:00:00,Metrics Parsing
+613.0,50.0,00:00:25,Logs Parsing
+613.0,50.0,00:00:27,Parsing
+613.0,50.0,00:00:04,Caching
+613.0,50.0,00:00:04,Dashboard Processing
+613.0,50.0,00:00:02,Panacea 1 Processing
+613.0,50.0,00:00:18,Log Anomaly Processing
+613.0,50.0,00:09:27,LLM Summary Processing
+613.0,50.0,00:10:25,Total Time
+614.0,17015.0,00:01:57,Downloading
+614.0,17015.0,00:00:29,Extracting
+614.0,17015.0,00:00:07,Metrics Parsing
+614.0,17015.0,00:03:06,Logs Parsing
+614.0,17015.0,00:03:08,Parsing
+614.0,17015.0,00:00:08,Caching
+614.0,17015.0,00:00:05,Dashboard Processing
+614.0,17015.0,00:00:03,Panacea 1 Processing
+614.0,17015.0,00:00:15,Log Anomaly Processing
+614.0,17015.0,00:04:58,LLM Summary Processing
+614.0,17015.0,00:11:05,Total Time
+620.0,52276.0,00:00:00,Downloading
+620.0,52276.0,00:01:21,Extracting
+620.0,52276.0,00:02:44,Logs Parsing
+620.0,52276.0,00:49:43,Metrics Parsing
+620.0,52276.0,00:49:44,Parsing
+620.0,52276.0,00:00:10,Caching
+620.0,52276.0,00:00:15,Dashboard Processing
+620.0,52276.0,00:00:05,Panacea 1 Processing
+620.0,52276.0,00:00:03,Log Anomaly Processing
+620.0,52276.0,00:04:46,LLM Summary Processing
+620.0,52276.0,00:56:26,Total Time
+623.0,11052.0,00:01:22,Downloading
+623.0,11052.0,00:00:21,Extracting
+623.0,11052.0,00:40:37,Logs Parsing
+623.0,11052.0,00:49:42,Metrics Parsing
+623.0,11052.0,00:49:44,Parsing
+623.0,11052.0,00:00:12,Caching
+623.0,11052.0,00:00:04,Dashboard Processing
+623.0,11052.0,00:00:03,Panacea 1 Processing
+623.0,11052.0,00:00:42,Log Anomaly Processing
+623.0,11052.0,00:04:01,LLM Summary Processing
+623.0,11052.0,00:56:30,Total Time
+624.0,14906.0,00:02:44,Downloading
+624.0,14906.0,00:00:26,Extracting
+624.0,14906.0,00:00:01,Metrics Parsing
+624.0,14906.0,00:23:55,Logs Parsing
+624.0,14906.0,00:23:57,Parsing
+624.0,14906.0,00:00:04,Caching
+624.0,14906.0,00:00:03,Dashboard Processing
+624.0,14906.0,00:00:02,Panacea 1 Processing
+624.0,14906.0,00:00:18,Log Anomaly Processing
+624.0,14906.0,00:09:50,LLM Summary Processing
+624.0,14906.0,00:37:27,Total Time
+628.0,15246.0,00:00:22,Extracting
+628.0,15246.0,00:01:17,Logs Parsing
+628.0,15246.0,01:14:59,Metrics Parsing
+628.0,15246.0,00:02:16,Downloading
+628.0,15246.0,01:15:01,Parsing
+628.0,15246.0,00:00:18,Caching
+628.0,15246.0,00:00:04,Dashboard Processing
+628.0,15246.0,00:00:03,Panacea 1 Processing
+628.0,15246.0,00:00:04,Log Anomaly Processing
+628.0,15246.0,00:00:07,LLM Summary Processing
+628.0,15246.0,01:18:15,Total Time
+637.0,43997.0,00:00:00,Downloading
+637.0,43997.0,00:02:44,Extracting
+637.0,43997.0,00:05:21,Logs Parsing
+637.0,43997.0,01:03:56,Metrics Parsing
+637.0,43997.0,01:03:58,Parsing
+637.0,43997.0,00:01:01,Caching
+637.0,43997.0,00:00:15,Dashboard Processing
+637.0,43997.0,00:00:03,Panacea 1 Processing
+637.0,43997.0,00:00:38,Log Anomaly Processing
+637.0,43997.0,00:05:16,LLM Summary Processing
+637.0,43997.0,01:13:58,Total Time
+639.0,25299.0,00:03:42,Downloading
+639.0,25299.0,00:00:29,Extracting
+639.0,25299.0,00:22:37,Logs Parsing
+639.0,25299.0,01:08:50,Metrics Parsing
+639.0,25299.0,01:08:52,Parsing
+639.0,25299.0,00:00:06,Caching
+639.0,25299.0,00:00:05,Dashboard Processing
+639.0,25299.0,00:00:03,Panacea 1 Processing
+639.0,25299.0,00:00:18,Log Anomaly Processing
+639.0,25299.0,00:05:17,LLM Summary Processing
+639.0,25299.0,01:18:55,Total Time
+646.0,18408.0,00:02:06,Downloading
+646.0,18408.0,00:00:23,Extracting
+646.0,18408.0,00:02:39,Logs Parsing
+646.0,18408.0,00:44:08,Metrics Parsing
+646.0,18408.0,00:44:11,Parsing
+646.0,18408.0,00:00:28,Caching
+646.0,18408.0,00:00:04,Dashboard Processing
+646.0,18408.0,00:00:03,Panacea 1 Processing
+646.0,18408.0,00:00:24,Log Anomaly Processing
+646.0,18408.0,00:02:59,LLM Summary Processing
+646.0,18408.0,00:50:40,Total Time
+678.0,13107.0,00:03:07,Downloading
+678.0,13107.0,00:00:18,Extracting
+678.0,13107.0,00:00:33,Metrics Parsing
+678.0,13107.0,00:06:29,Logs Parsing
+678.0,13107.0,00:06:32,Parsing
+678.0,13107.0,00:00:15,Caching
+678.0,13107.0,00:00:04,Dashboard Processing
+678.0,13107.0,00:00:03,Panacea 1 Processing
+678.0,13107.0,00:00:02,Log Anomaly Processing
+678.0,13107.0,00:02:33,LLM Summary Processing
+678.0,13107.0,00:12:56,Total Time
+679.0,13528.0,00:03:54,Downloading
+679.0,13528.0,00:00:22,Extracting
+679.0,13528.0,00:01:59,Logs Parsing
+679.0,13528.0,01:35:49,Metrics Parsing
+679.0,13528.0,01:35:52,Parsing
+679.0,13528.0,00:00:52,Caching
+679.0,13528.0,00:00:06,Dashboard Processing
+679.0,13528.0,00:00:03,Panacea 1 Processing
+679.0,13528.0,00:00:06,Log Anomaly Processing
+679.0,13528.0,00:03:38,LLM Summary Processing
+679.0,13528.0,01:44:56,Total Time
+690.0,9721.0,00:03:46,Downloading
+690.0,9721.0,00:00:29,Extracting
+690.0,9721.0,00:01:23,Logs Parsing
+690.0,9721.0,00:46:08,Metrics Parsing
+690.0,9721.0,00:46:10,Parsing
+690.0,9721.0,00:00:26,Caching
+690.0,9721.0,00:00:13,Dashboard Processing
+690.0,9721.0,00:00:04,Panacea 1 Processing
+690.0,9721.0,00:01:14,Log Anomaly Processing
+690.0,9721.0,00:05:40,LLM Summary Processing
+690.0,9721.0,00:58:02,Total Time
+729.0,17571.0,01:31:18,Total Time
+729.0,17571.0,00:02:32,Downloading
+729.0,17571.0,00:00:27,Extracting
+729.0,17571.0,00:03:00,Total Time
+729.0,17571.0,00:02:25,Metrics Parsing
+729.0,17571.0,00:02:13,Downloading
+729.0,17571.0,00:00:36,Extracting
+729.0,17571.0,00:00:00,Downloading
+729.0,17571.0,00:00:00,Total Time
+729.0,17571.0,00:02:15,Metrics Parsing
+729.0,17571.0,00:01:49,Logs Parsing
+729.0,17571.0,00:01:55,Metrics Parsing
+729.0,17571.0,00:01:55,Parsing
+729.0,17571.0,00:00:01,Caching
+729.0,17571.0,00:00:07,Dashboard Processing
+729.0,17571.0,00:00:02,Panacea 1 Processing
+729.0,17571.0,00:00:04,Log Anomaly Processing
+729.0,17571.0,00:00:00,LLM Summary Processing
+729.0,17571.0,00:02:28,Total Time
+729.0,17571.0,00:02:43,Metrics Parsing
+729.0,17571.0,01:30:00,Logs Parsing
+729.0,17571.0,01:30:04,Parsing
+729.0,17571.0,00:01:01,Caching
+729.0,17571.0,00:00:14,Dashboard Processing
+729.0,17571.0,01:31:26,Total Time
+729.0,17571.0,00:00:29,Extracting
+729.0,17571.0,00:01:55,Logs Parsing
+729.0,17571.0,00:02:27,Parsing
+729.0,17571.0,00:00:03,Caching
+729.0,17571.0,00:00:05,Dashboard Processing
+729.0,17571.0,00:00:03,Panacea 1 Processing
+729.0,17571.0,00:00:05,Log Anomaly Processing
+729.0,17571.0,00:03:15,Total Time
+729.0,17571.0,00:02:23,Metrics Parsing
+729.0,17571.0,00:00:30,Extracting
+729.0,17571.0,00:01:59,Logs Parsing
+729.0,17571.0,00:02:29,Metrics Parsing
+729.0,17571.0,00:02:30,Parsing
+729.0,17571.0,00:00:10,Caching
+729.0,17571.0,00:00:09,Dashboard Processing
+729.0,17571.0,00:00:08,Log Anomaly Processing
+729.0,17571.0,00:03:33,Total Time
+729.0,17571.0,00:02:55,Metrics Parsing
+729.0,17571.0,00:00:52,Caching
+729.0,17571.0,00:00:15,Dashboard Processing
+729.0,17571.0,00:02:05,Logs Parsing
+729.0,17571.0,00:02:24,Metrics Parsing
+729.0,17571.0,00:02:25,Parsing
+729.0,17571.0,00:00:14,Caching
+729.0,17571.0,00:00:04,Panacea 1 Processing
+729.0,17571.0,00:00:09,Log Anomaly Processing
+729.0,17571.0,00:03:39,Total Time
+729.0,17571.0,00:02:49,Metrics Parsing
+729.0,17571.0,00:00:29,Total Time
+729.0,17571.0,01:30:30,Total Time
+729.0,17571.0,00:00:11,Caching
+729.0,17571.0,01:30:05,Parsing
+730.0,17412.0,00:04:31,Total Time
+730.0,17412.0,00:00:00,Downloading
+730.0,17412.0,00:03:55,Metrics Parsing
+730.0,17412.0,01:30:00,Logs Parsing
+730.0,17412.0,00:00:22,Extracting
+730.0,17412.0,00:02:21,Total Time
+730.0,17412.0,01:30:04,Parsing
+730.0,17412.0,00:00:26,Extracting
+730.0,17412.0,00:02:48,Logs Parsing
+730.0,17412.0,00:03:18,Metrics Parsing
+730.0,17412.0,00:00:00,Total Time
+730.0,17412.0,00:03:19,Parsing
+730.0,17412.0,00:00:13,Caching
+730.0,17412.0,00:00:13,Dashboard Processing
+730.0,17412.0,00:00:04,Panacea 1 Processing
+730.0,17412.0,00:00:07,Log Anomaly Processing
+730.0,17412.0,00:00:00,LLM Summary Processing
+730.0,17412.0,00:04:25,Total Time
+730.0,17412.0,00:00:23,Caching
+730.0,17412.0,00:00:10,Dashboard Processing
+730.0,17412.0,00:00:03,Panacea 1 Processing
+730.0,17412.0,01:30:40,Total Time
+730.0,17412.0,01:30:03,Parsing
+730.0,17412.0,00:02:36,Logs Parsing
+730.0,17412.0,00:02:55,Metrics Parsing
+730.0,17412.0,00:02:55,Parsing
+730.0,17412.0,00:00:02,Caching
+730.0,17412.0,00:00:04,Dashboard Processing
+730.0,17412.0,00:00:05,Log Anomaly Processing
+730.0,17412.0,00:03:11,Total Time
+730.0,17412.0,00:04:51,Metrics Parsing
+730.0,17412.0,00:01:59,Downloading
+730.0,17412.0,00:03:14,Metrics Parsing
+730.0,17412.0,00:00:09,Downloading
+730.0,17412.0,00:02:51,Metrics Parsing
+730.0,17412.0,00:00:25,Total Time
+730.0,17412.0,00:00:25,Extracting
+730.0,17412.0,00:03:20,Metrics Parsing
+730.0,17412.0,00:00:23,Extracting
+730.0,17412.0,01:30:47,Total Time
+730.0,17412.0,00:00:11,Dashboard Processing
+730.0,17412.0,00:00:26,Caching
+730.0,17412.0,00:02:45,Logs Parsing
+730.0,17412.0,00:00:05,Caching
+730.0,17412.0,00:00:06,Log Anomaly Processing
+730.0,17412.0,00:04:13,Total Time
+730.0,17412.0,00:03:25,Metrics Parsing
+730.0,17412.0,01:30:46,Total Time
+730.0,17412.0,00:02:53,Logs Parsing
+730.0,17412.0,00:03:10,Metrics Parsing
+730.0,17412.0,00:03:11,Parsing
+730.0,17412.0,00:00:21,Caching
+730.0,17412.0,00:00:18,Dashboard Processing
+730.0,17412.0,00:00:08,Log Anomaly Processing
+731.0,18123.0,00:00:24,Total Time
+731.0,18123.0,00:02:03,Downloading
+731.0,18123.0,00:00:23,Extracting
+731.0,18123.0,00:02:26,Total Time
+731.0,18123.0,00:00:00,Downloading
+731.0,18123.0,00:00:00,Total Time
+731.0,18123.0,00:03:02,Metrics Parsing
+731.0,18123.0,00:03:19,Logs Parsing
+731.0,18123.0,00:03:20,Parsing
+731.0,18123.0,00:00:02,Caching
+731.0,18123.0,00:00:05,Dashboard Processing
+731.0,18123.0,00:00:03,Panacea 1 Processing
+731.0,18123.0,00:00:05,Log Anomaly Processing
+731.0,18123.0,00:00:00,LLM Summary Processing
+731.0,18123.0,00:03:37,Total Time
+731.0,18123.0,00:00:29,Extracting
+731.0,18123.0,00:02:57,Metrics Parsing
+731.0,18123.0,00:03:11,Logs Parsing
+731.0,18123.0,00:03:12,Parsing
+731.0,18123.0,00:00:06,Caching
+731.0,18123.0,00:00:09,Dashboard Processing
+731.0,18123.0,00:00:04,Panacea 1 Processing
+731.0,18123.0,00:00:06,Log Anomaly Processing
+731.0,18123.0,00:04:08,Total Time
+731.0,18123.0,00:00:31,Extracting
+731.0,18123.0,00:02:58,Metrics Parsing
+731.0,18123.0,00:03:18,Logs Parsing
+731.0,18123.0,00:03:19,Parsing
+731.0,18123.0,00:00:14,Caching
+731.0,18123.0,00:00:12,Dashboard Processing
+731.0,18123.0,00:00:08,Log Anomaly Processing
+731.0,18123.0,00:04:31,Total Time
+731.0,18123.0,00:00:32,Extracting
+731.0,18123.0,00:03:09,Metrics Parsing
+731.0,18123.0,00:03:26,Logs Parsing
+731.0,18123.0,00:03:28,Parsing
+731.0,18123.0,00:00:31,Caching
+731.0,18123.0,00:00:14,Dashboard Processing
+731.0,18123.0,00:05:00,Total Time
+731.0,18123.0,00:00:37,Downloading
+731.0,18123.0,00:00:24,Extracting
+731.0,18123.0,00:02:47,Metrics Parsing
+731.0,18123.0,01:30:00,Logs Parsing
+731.0,18123.0,01:30:03,Parsing
+731.0,18123.0,00:00:13,Caching
+731.0,18123.0,00:00:11,Dashboard Processing
+731.0,18123.0,01:30:32,Total Time
+731.0,18123.0,00:02:45,Metrics Parsing
+731.0,18123.0,00:03:11,Metrics Parsing
+731.0,18123.0,01:30:04,Parsing
+731.0,18123.0,00:00:23,Caching
+731.0,18123.0,00:00:10,Dashboard Processing
+731.0,18123.0,01:30:44,Total Time
+731.0,18123.0,00:01:29,Metrics Parsing
+731.0,18123.0,00:00:21,Extracting
+731.0,18123.0,01:30:02,Parsing
+731.0,18123.0,01:30:23,Total Time
+732.0,,00:00:03,Downloading
+732.0,,00:00:03,Total Time
+734.0,,00:00:02,Downloading
+735.0,,00:00:02,Total Time
+736.0,24315.0,00:00:10,Dashboard Processing
+736.0,24315.0,00:00:03,Panacea 1 Processing
+736.0,24315.0,00:00:35,Log Anomaly Processing
+736.0,24315.0,00:00:10,Downloading
+736.0,24315.0,00:00:32,Extracting
+736.0,24315.0,00:03:56,Logs Parsing
+736.0,24315.0,00:04:47,Metrics Parsing
+736.0,24315.0,00:04:49,Parsing
+736.0,24315.0,00:00:13,Caching
+739.0,8028.0,00:00:54,Metrics Parsing
+739.0,8028.0,00:00:15,Extracting
+739.0,8028.0,00:00:00,Downloading
+739.0,8028.0,00:00:51,LLM Summary Processing
+739.0,8028.0,00:02:56,Total Time
+739.0,8028.0,00:00:19,Log Anomaly Processing
+739.0,8028.0,00:00:03,Panacea 1 Processing
+739.0,8028.0,00:00:07,Dashboard Processing
+739.0,8028.0,00:00:01,Caching
+739.0,8028.0,00:01:20,Parsing
+739.0,8028.0,00:01:20,Logs Parsing
+742.0,6619.0,00:00:03,Panacea 1 Processing
+742.0,6619.0,00:01:58,Total Time
+742.0,6619.0,00:00:02,LLM Summary Processing
+742.0,6619.0,00:00:00,Downloading
+742.0,6619.0,00:00:13,Extracting
+742.0,6619.0,00:00:47,Logs Parsing
+742.0,6619.0,00:01:13,Metrics Parsing
+742.0,6619.0,00:01:14,Parsing
+742.0,6619.0,00:00:03,Caching
+742.0,6619.0,00:00:07,Dashboard Processing
+742.0,6619.0,00:00:15,Log Anomaly Processing
+743.0,3653.0,00:00:37,Log Anomaly Processing
+743.0,3653.0,00:00:01,LLM Summary Processing
+743.0,3653.0,00:02:50,Total Time
+743.0,3653.0,00:00:06,Downloading
+743.0,3653.0,00:00:07,Extracting
+743.0,3653.0,00:01:37,Logs Parsing
+743.0,3653.0,00:01:43,Metrics Parsing
+743.0,3653.0,00:01:43,Parsing
+743.0,3653.0,00:00:03,Caching
+743.0,3653.0,00:00:09,Dashboard Processing
+743.0,3653.0,00:00:02,Panacea 1 Processing
+744.0,8150.0,00:06:37,Total Time
+744.0,8150.0,00:00:13,Downloading
+744.0,8150.0,00:00:18,Extracting
+744.0,8150.0,00:03:25,Metrics Parsing
+744.0,8150.0,00:05:14,Logs Parsing
+744.0,8150.0,00:05:15,Parsing
+744.0,8150.0,00:00:03,Caching
+744.0,8150.0,00:00:23,Dashboard Processing
+744.0,8150.0,00:00:03,Panacea 1 Processing
+744.0,8150.0,00:00:17,Log Anomaly Processing
+744.0,8150.0,00:00:02,LLM Summary Processing
+745.0,3306.0,00:00:52,Metrics Parsing
+745.0,3306.0,00:00:18,Downloading
+745.0,3306.0,00:03:18,Total Time
+745.0,3306.0,00:00:08,Extracting
+745.0,3306.0,00:00:02,LLM Summary Processing
+745.0,3306.0,00:00:10,Log Anomaly Processing
+745.0,3306.0,00:00:03,Panacea 1 Processing
+745.0,3306.0,00:00:05,Dashboard Processing
+745.0,3306.0,00:00:02,Caching
+745.0,3306.0,00:02:29,Parsing
+745.0,3306.0,00:02:29,Logs Parsing
+746.0,12812.0,00:08:57,Total Time
+746.0,12812.0,00:00:08,Downloading
+746.0,12812.0,00:00:23,Extracting
+746.0,12812.0,00:02:14,Logs Parsing
+746.0,12812.0,00:02:31,Metrics Parsing
+746.0,12812.0,00:02:33,Parsing
+746.0,12812.0,00:00:09,Caching
+746.0,12812.0,00:00:06,Dashboard Processing
+746.0,12812.0,00:00:14,Panacea 1 Processing
+746.0,12812.0,00:00:32,Log Anomaly Processing
+746.0,12812.0,00:04:40,LLM Summary Processing
+747.0,6992.0,00:00:09,Extracting
+747.0,6992.0,00:12:00,Total Time
+747.0,6992.0,00:07:07,LLM Summary Processing
+747.0,6992.0,00:00:15,Log Anomaly Processing
+747.0,6992.0,00:00:03,Panacea 1 Processing
+747.0,6992.0,00:00:06,Dashboard Processing
+747.0,6992.0,00:00:15,Caching
+747.0,6992.0,00:02:59,Parsing
+747.0,6992.0,00:02:58,Metrics Parsing
+747.0,6992.0,00:01:20,Logs Parsing
+747.0,6992.0,00:01:04,Downloading
+748.0,15683.0,00:18:32,Total Time
+748.0,15683.0,00:00:08,Downloading
+748.0,15683.0,00:00:32,Extracting
+748.0,15683.0,00:00:00,Metrics Parsing
+748.0,15683.0,00:03:02,Logs Parsing
+748.0,15683.0,00:03:03,Parsing
+748.0,15683.0,00:00:06,Caching
+748.0,15683.0,00:00:03,Dashboard Processing
+748.0,15683.0,00:00:04,Panacea 1 Processing
+748.0,15683.0,00:00:24,Log Anomaly Processing
+748.0,15683.0,00:14:11,LLM Summary Processing
+749.0,127872.0,00:22:19,Metrics Parsing
+749.0,127872.0,00:22:22,Parsing
+749.0,127872.0,00:10:34,Logs Parsing
+749.0,127872.0,00:01:35,Caching
+749.0,127872.0,00:00:20,Dashboard Processing
+749.0,127872.0,00:00:06,Panacea 1 Processing
+749.0,127872.0,00:00:12,Log Anomaly Processing
+749.0,127872.0,00:00:28,LLM Summary Processing
+749.0,127872.0,00:28:22,Total Time
+749.0,127872.0,00:02:28,Extracting
+749.0,127872.0,00:00:46,Downloading
+751.0,26291.0,00:00:19,Log Anomaly Processing
+751.0,26291.0,00:00:03,Panacea 1 Processing
+751.0,26291.0,00:00:05,Dashboard Processing
+751.0,26291.0,00:00:17,Caching
+751.0,26291.0,00:01:19,Parsing
+751.0,26291.0,00:01:18,Logs Parsing
+751.0,26291.0,00:01:18,Metrics Parsing
+751.0,26291.0,00:00:55,Extracting
+751.0,26291.0,00:00:08,Downloading
+752.0,13206.0,00:00:17,Log Anomaly Processing
+752.0,13206.0,00:00:02,Panacea 1 Processing
+752.0,13206.0,00:00:37,Caching
+752.0,13206.0,00:15:19,Parsing
+752.0,13206.0,00:15:17,Logs Parsing
+752.0,13206.0,00:00:38,Metrics Parsing
+752.0,13206.0,00:00:31,Extracting
+752.0,13206.0,00:00:09,Downloading
+752.0,13206.0,00:00:13,Dashboard Processing
+753.0,24644.0,00:00:18,Caching
+753.0,24644.0,00:00:03,Panacea 1 Processing
+753.0,24644.0,00:00:19,Dashboard Processing
+753.0,24644.0,00:00:23,Log Anomaly Processing
+753.0,24644.0,00:00:15,Downloading
+753.0,24644.0,00:00:54,Extracting
+753.0,24644.0,00:02:49,Metrics Parsing
+753.0,24644.0,00:05:51,Logs Parsing
+753.0,24644.0,00:05:55,Parsing
+755.0,409.0,00:01:10,Logs Parsing
+755.0,409.0,00:01:13,Parsing
+755.0,409.0,00:00:18,Caching
+755.0,409.0,00:00:38,LLM Summary Processing
+755.0,409.0,00:02:52,Total Time
+755.0,409.0,00:00:05,Dashboard Processing
+755.0,409.0,00:00:01,Panacea 1 Processing
+755.0,409.0,00:00:27,Log Anomaly Processing
+755.0,409.0,00:00:05,Downloading
+755.0,409.0,00:00:02,Extracting
+755.0,409.0,00:00:00,Metrics Parsing
+756.0,1013.0,00:01:01,Parsing
+756.0,1013.0,00:01:31,Total Time
+756.0,1013.0,00:00:09,LLM Summary Processing
+756.0,1013.0,00:00:02,Log Anomaly Processing
+756.0,1013.0,00:00:01,Panacea 1 Processing
+756.0,1013.0,00:00:05,Dashboard Processing
+756.0,1013.0,00:00:07,Caching
+756.0,1013.0,00:00:59,Logs Parsing
+756.0,1013.0,00:00:00,Metrics Parsing
+756.0,1013.0,00:00:03,Extracting
+756.0,1013.0,00:00:02,Downloading
+757.0,7767.0,00:00:05,Downloading
+757.0,7767.0,00:00:24,Extracting
+757.0,7767.0,00:02:02,Metrics Parsing
+757.0,7767.0,00:03:47,Logs Parsing
+757.0,7767.0,00:56:12,LLM Summary Processing
+757.0,7767.0,00:00:08,Dashboard Processing
+757.0,7767.0,00:03:49,Parsing
+757.0,7767.0,00:00:23,Log Anomaly Processing
+757.0,7767.0,00:00:02,Panacea 1 Processing
+757.0,7767.0,00:00:24,Caching
+757.0,7767.0,01:01:28,Total Time
+758.0,25096.0,00:00:12,Downloading
+758.0,25096.0,00:00:30,Extracting
+758.0,25096.0,00:02:31,Logs Parsing
+758.0,25096.0,00:03:31,Metrics Parsing
+758.0,25096.0,00:03:32,Parsing
+758.0,25096.0,00:00:16,Caching
+758.0,25096.0,00:00:08,Dashboard Processing
+758.0,25096.0,00:00:03,Panacea 1 Processing
+758.0,25096.0,00:00:11,Log Anomaly Processing
+758.0,25096.0,00:00:14,LLM Summary Processing
+758.0,25096.0,00:05:08,Total Time
+759.0,18356.0,00:01:34,Caching
+759.0,18356.0,00:05:24,Downloading
+759.0,18356.0,00:00:55,Extracting
+759.0,18356.0,00:05:26,Metrics Parsing
+759.0,18356.0,00:17:06,Logs Parsing
+759.0,18356.0,00:17:13,Parsing
+759.0,18356.0,00:00:12,Dashboard Processing
+759.0,18356.0,00:00:03,Panacea 1 Processing
+759.0,18356.0,00:00:02,Log Anomaly Processing
+759.0,18356.0,00:00:12,LLM Summary Processing
+759.0,18356.0,00:25:38,Total Time
+760.0,5790.0,00:00:10,Downloading
+760.0,5790.0,00:00:00,Metrics Parsing
+760.0,5790.0,00:02:35,Total Time
+760.0,5790.0,00:00:28,LLM Summary Processing
+760.0,5790.0,00:00:24,Log Anomaly Processing
+760.0,5790.0,00:00:03,Panacea 1 Processing
+760.0,5790.0,00:00:06,Dashboard Processing
+760.0,5790.0,00:00:18,Caching
+760.0,5790.0,00:00:55,Parsing
+760.0,5790.0,00:00:53,Logs Parsing
+760.0,5790.0,00:00:09,Extracting
+761.0,6879.0,00:00:14,Extracting
+761.0,6879.0,00:01:12,Logs Parsing
+761.0,6879.0,00:01:59,Metrics Parsing
+761.0,6879.0,00:02:01,Parsing
+761.0,6879.0,00:00:13,Caching
+761.0,6879.0,00:00:04,Dashboard Processing
+761.0,6879.0,00:00:02,Panacea 1 Processing
+761.0,6879.0,00:00:18,Log Anomaly Processing
+761.0,6879.0,00:51:11,LLM Summary Processing
+761.0,6879.0,00:54:11,Total Time
+761.0,6879.0,00:00:07,Downloading
+762.0,11406.0,00:00:22,Extracting
+762.0,11406.0,00:02:04,Metrics Parsing
+762.0,11406.0,00:02:20,Logs Parsing
+762.0,11406.0,00:02:22,Parsing
+762.0,11406.0,00:00:16,Caching
+762.0,11406.0,00:00:08,Dashboard Processing
+762.0,11406.0,00:00:03,Panacea 1 Processing
+762.0,11406.0,00:00:30,Log Anomaly Processing
+762.0,11406.0,00:25:30,LLM Summary Processing
+762.0,11406.0,00:29:17,Total Time
+762.0,11406.0,00:00:05,Downloading
+804.0,23.0,00:03:34,LLM Summary Processing
+804.0,23.0,00:00:14,Log Anomaly Processing
+804.0,23.0,00:00:01,Panacea 1 Processing
+804.0,23.0,00:00:03,Dashboard Processing
+804.0,23.0,00:00:01,Caching
+804.0,23.0,00:00:03,Parsing
+804.0,23.0,00:00:03,Logs Parsing
+804.0,23.0,00:00:01,Metrics Parsing
+804.0,23.0,00:00:00,Extracting
+804.0,23.0,00:00:01,Downloading
+804.0,23.0,00:03:58,Total Time
+805.0,18.0,00:00:18,Log Anomaly Processing
+805.0,18.0,00:00:05,Parsing
+805.0,18.0,00:00:15,Caching
+805.0,18.0,00:00:12,Dashboard Processing
+805.0,18.0,00:00:01,Panacea 1 Processing
+805.0,18.0,00:00:02,Logs Parsing
+805.0,18.0,00:00:27,LLM Summary Processing
+805.0,18.0,00:01:19,Total Time
+805.0,18.0,00:00:01,Extracting
+805.0,18.0,00:00:00,Downloading
+805.0,18.0,00:00:00,Metrics Parsing
+807.0,8111.0,00:00:15,Extracting
+807.0,8111.0,00:00:10,LLM Summary Processing
+807.0,8111.0,00:02:08,Total Time
+807.0,8111.0,00:00:07,Downloading
+807.0,8111.0,00:00:02,Logs Parsing
+807.0,8111.0,00:01:18,Metrics Parsing
+807.0,8111.0,00:01:20,Parsing
+807.0,8111.0,00:00:01,Caching
+807.0,8111.0,00:00:09,Dashboard Processing
+807.0,8111.0,00:00:02,Panacea 1 Processing
+807.0,8111.0,00:00:02,Log Anomaly Processing
+826.0,0.0,00:00:02,Total Time
+826.0,0.0,00:00:00,Extracting
+826.0,0.0,00:00:02,Downloading

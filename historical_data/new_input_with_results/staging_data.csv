@@ -1,0 +1,328 @@
+log_bundle_id,log_bundle_size,total_time_taken,event_name,total_time_taken_seconds,status
+66,32512,00:10:51,Downloading,651,extremely slow
+66,32512,00:00:58,Extracting,58,slow
+66,32512,00:08:40,Logs Parsing,520,slow
+66,32512,00:09:48,Metrics Parsing,588,slow
+66,32512,00:09:49,Parsing,589,expected
+66,32512,00:00:10,Caching,10,expected
+66,32512,00:00:04,Dashboard Processing,4,expected
+66,32512,00:00:04,Panacea 1 Processing,4,slow
+66,32512,00:00:33,Log Anomaly Processing,33,slow
+66,32512,00:00:01,LLM Summary Processing,1,expected
+66,32512,00:22:38,Total Time,1358,slow
+68,36750,00:04:33,Downloading,273,slow
+68,36750,00:01:07,Extracting,67,slow
+68,36750,00:10:02,Logs Parsing,602,slow
+68,36750,00:12:09,Metrics Parsing,729,slow
+68,36750,00:12:10,Parsing,730,expected
+68,36750,00:00:13,Caching,13,expected
+68,36750,00:00:05,Dashboard Processing,5,expected
+68,36750,00:00:03,Panacea 1 Processing,3,slow
+68,36750,00:00:26,Log Anomaly Processing,26,slow
+68,36750,00:00:01,LLM Summary Processing,1,expected
+68,36750,00:18:46,Total Time,1126,expected
+91,38143,00:00:14,Downloading,14,expected
+91,38143,00:01:16,Extracting,76,slow
+91,38143,00:17:21,Metrics Parsing,1041,slow
+91,38143,00:18:09,Logs Parsing,1089,slow
+91,38143,00:18:12,Parsing,1092,slow
+91,38143,00:00:28,Caching,28,slow
+91,38143,00:00:04,Dashboard Processing,4,expected
+91,38143,00:00:03,Panacea 1 Processing,3,slow
+91,38143,00:00:13,Log Anomaly Processing,13,expected
+91,38143,00:12:08,LLM Summary Processing,728,slow
+91,38143,00:32:41,Total Time,1961,slow
+92,26291,00:00:09,Downloading,9,expected
+92,26291,00:01:42,Extracting,102,extremely slow
+92,26291,00:02:34,Metrics Parsing,154,expected
+92,26291,00:03:35,Logs Parsing,215,expected
+92,26291,00:03:36,Parsing,216,expected
+92,26291,00:00:06,Caching,6,expected
+92,26291,00:00:06,Dashboard Processing,6,expected
+92,26291,00:00:03,Panacea 1 Processing,3,slow
+92,26291,00:00:18,Log Anomaly Processing,18,slow
+92,26291,00:09:23,LLM Summary Processing,563,slow
+92,26291,00:15:27,Total Time,927,expected
+93,13206,00:00:11,Downloading,11,slow
+93,13206,00:00:49,Extracting,49,extremely slow
+93,13206,00:01:34,Metrics Parsing,94,expected
+93,13206,00:33:37,Logs Parsing,2017,extremely slow
+93,13206,00:33:44,Parsing,2024,slow
+93,13206,00:00:41,Caching,41,extremely slow
+93,13206,00:00:12,Dashboard Processing,12,slow
+93,13206,00:00:02,Panacea 1 Processing,2,expected
+93,13206,00:00:24,Log Anomaly Processing,24,slow
+93,13206,00:16:32,LLM Summary Processing,992,extremely slow
+93,13206,00:52:39,Total Time,3159,slow
+94,24644,00:00:19,Downloading,19,slow
+94,24644,00:01:32,Extracting,92,extremely slow
+94,24644,00:05:56,Metrics Parsing,356,slow
+94,24644,00:10:29,Logs Parsing,629,slow
+94,24644,00:10:40,Parsing,640,slow
+94,24644,00:00:19,Caching,19,expected
+94,24644,00:00:19,Dashboard Processing,19,extremely slow
+94,24644,00:00:03,Panacea 1 Processing,3,slow
+94,24644,00:00:31,Log Anomaly Processing,31,slow
+94,24644,00:21:22,LLM Summary Processing,1282,extremely slow
+94,24644,00:35:10,Total Time,2110,slow
+96,409,00:00:04,Downloading,4,expected
+96,409,00:00:02,Extracting,2,expected
+96,409,00:00:00,Metrics Parsing,0,expected
+96,409,00:01:39,Logs Parsing,99,slow
+96,409,00:01:41,Parsing,101,slow
+96,409,00:00:02,Caching,2,expected
+96,409,00:00:01,Dashboard Processing,1,expected
+96,409,00:00:15,Panacea 1 Processing,15,extremely slow
+96,409,00:00:02,Log Anomaly Processing,2,expected
+96,409,00:00:12,LLM Summary Processing,12,expected
+96,409,00:02:21,Total Time,141,expected
+97,1013,00:00:09,Downloading,9,slow
+97,1013,00:00:03,Extracting,3,expected
+97,1013,00:00:00,Metrics Parsing,0,expected
+97,1013,00:02:14,Logs Parsing,134,slow
+97,1013,00:02:16,Parsing,136,slow
+97,1013,00:00:02,Caching,2,expected
+97,1013,00:00:01,Dashboard Processing,1,expected
+97,1013,00:00:01,Panacea 1 Processing,1,expected
+97,1013,00:00:22,Log Anomaly Processing,22,slow
+97,1013,00:03:33,LLM Summary Processing,213,slow
+97,1013,00:06:28,Total Time,388,slow
+98,7767,00:00:08,Downloading,8,slow
+98,7767,00:00:38,Extracting,38,extremely slow
+98,7767,00:03:20,Metrics Parsing,200,slow
+98,7767,00:05:34,Logs Parsing,334,slow
+98,7767,00:05:36,Parsing,336,slow
+98,7767,00:00:17,Caching,17,slow
+98,7767,00:00:03,Dashboard Processing,3,expected
+98,7767,00:00:02,Panacea 1 Processing,2,expected
+98,7767,00:00:26,Log Anomaly Processing,26,slow
+98,7767,00:11:34,LLM Summary Processing,694,slow
+98,7767,00:18:48,Total Time,1128,slow
+104,6879,00:00:05,Downloading,5,expected
+104,6879,00:00:22,Extracting,22,slow
+104,6879,00:03:22,Metrics Parsing,202,slow
+104,6879,00:07:59,Logs Parsing,479,slow
+104,6879,00:08:00,Parsing,480,slow
+104,6879,00:00:09,Caching,9,slow
+104,6879,00:00:00,Dashboard Processing,0,expected
+104,6879,00:00:01,Panacea 1 Processing,1,expected
+104,6879,00:00:13,Log Anomaly Processing,13,expected
+104,6879,00:03:23,LLM Summary Processing,203,slow
+104,6879,00:12:16,Total Time,736,slow
+106,15967,00:00:11,Downloading,11,slow
+106,15967,00:00:31,Extracting,31,slow
+106,15967,00:05:21,Logs Parsing,321,slow
+106,15967,00:06:37,Metrics Parsing,397,slow
+106,15967,00:06:39,Parsing,399,slow
+106,15967,00:00:17,Caching,17,slow
+106,15967,00:00:04,Dashboard Processing,4,expected
+106,15967,00:00:03,Panacea 1 Processing,3,slow
+106,15967,00:00:02,Log Anomaly Processing,2,expected
+106,15967,00:07:38,LLM Summary Processing,458,slow
+106,15967,00:15:29,Total Time,929,slow
+108,4090,00:00:14,Downloading,14,slow
+108,4090,00:00:08,Extracting,8,expected
+108,4090,00:00:01,Metrics Parsing,1,expected
+108,4090,00:03:06,Logs Parsing,186,slow
+108,4090,00:03:07,Parsing,187,slow
+108,4090,00:00:04,Caching,4,expected
+108,4090,00:00:00,Dashboard Processing,0,expected
+108,4090,00:00:03,Panacea 1 Processing,3,slow
+108,4090,00:00:15,Log Anomaly Processing,15,expected
+108,4090,00:02:22,LLM Summary Processing,142,expected
+108,4090,00:06:16,Total Time,376,expected
+109,17207,00:00:13,Downloading,13,slow
+109,17207,00:00:50,Extracting,50,slow
+109,17207,00:07:36,Metrics Parsing,456,slow
+109,17207,00:09:07,Logs Parsing,547,slow
+109,17207,00:09:08,Parsing,548,slow
+109,17207,00:00:11,Caching,11,expected
+109,17207,00:00:01,Dashboard Processing,1,expected
+109,17207,00:00:03,Panacea 1 Processing,3,slow
+109,17207,00:00:17,Log Anomaly Processing,17,slow
+109,17207,00:09:10,LLM Summary Processing,550,slow
+109,17207,00:19:59,Total Time,1199,slow
+110,6321,00:00:08,Downloading,8,slow
+110,6321,00:00:23,Extracting,23,slow
+110,6321,00:02:05,Metrics Parsing,125,slow
+110,6321,00:05:00,Logs Parsing,300,slow
+110,6321,00:05:01,Parsing,301,slow
+110,6321,00:00:15,Caching,15,slow
+110,6321,00:00:00,Dashboard Processing,0,expected
+110,6321,00:00:17,Panacea 1 Processing,17,extremely slow
+110,6321,00:00:13,Log Anomaly Processing,13,expected
+110,6321,00:00:22,LLM Summary Processing,22,expected
+110,6321,00:06:41,Total Time,401,expected
+112,7727,00:00:06,Downloading,6,expected
+112,7727,00:00:25,Extracting,25,slow
+112,7727,00:02:40,Logs Parsing,160,slow
+112,7727,00:02:40,Metrics Parsing,160,slow
+112,7727,00:02:42,Parsing,162,expected
+112,7727,00:00:22,Caching,22,slow
+112,7727,00:00:01,Dashboard Processing,1,expected
+112,7727,00:00:02,Panacea 1 Processing,2,expected
+112,7727,00:00:27,Log Anomaly Processing,27,slow
+112,7727,00:00:00,Downloading,0,expected
+112,7727,00:00:25,Extracting,25,slow
+112,7727,00:02:38,Metrics Parsing,158,slow
+112,7727,00:02:41,Logs Parsing,161,slow
+112,7727,00:02:42,Parsing,162,expected
+112,7727,00:00:09,Caching,9,slow
+112,7727,00:00:01,Dashboard Processing,1,expected
+112,7727,00:00:03,Panacea 1 Processing,3,slow
+112,7727,00:00:27,Log Anomaly Processing,27,slow
+112,7727,00:00:00,Downloading,0,expected
+112,7727,00:00:00,Downloading,0,expected
+112,7727,00:00:00,Metrics Parsing,0,expected
+112,7727,00:01:31,Logs Parsing,91,expected
+112,7727,00:01:32,Parsing,92,expected
+112,7727,00:00:07,Caching,7,expected
+112,7727,00:00:02,Dashboard Processing,2,expected
+112,7727,00:00:02,Panacea 1 Processing,2,expected
+112,7727,00:00:26,Log Anomaly Processing,26,slow
+112,7727,00:00:00,Downloading,0,expected
+112,7727,00:00:25,Extracting,25,slow
+112,7727,00:01:23,Metrics Parsing,83,slow
+112,7727,00:02:41,Logs Parsing,161,slow
+112,7727,00:02:42,Parsing,162,expected
+112,7727,00:00:13,Caching,13,slow
+112,7727,00:00:03,Dashboard Processing,3,expected
+112,7727,00:00:03,Panacea 1 Processing,3,slow
+112,7727,00:00:23,Log Anomaly Processing,23,slow
+112,7727,00:13:52,Total Time,832,slow
+114,4910,00:00:06,Downloading,6,expected
+114,4910,00:00:17,Extracting,17,slow
+114,4910,00:00:00,Downloading,0,expected
+114,4910,00:01:18,Metrics Parsing,78,slow
+114,4910,00:04:28,Logs Parsing,268,slow
+114,4910,00:04:30,Parsing,270,slow
+114,4910,00:00:19,Caching,19,slow
+114,4910,00:00:11,Dashboard Processing,11,slow
+114,4910,00:00:03,Panacea 1 Processing,3,slow
+114,4910,00:00:01,Log Anomaly Processing,1,expected
+114,4910,00:05:21,LLM Summary Processing,321,slow
+114,4910,00:10:27,Total Time,627,slow
+117,11368,00:00:08,Downloading,8,expected
+117,11368,00:00:38,Extracting,38,slow
+117,11368,00:00:00,Metrics Parsing,0,expected
+117,11368,00:02:13,Logs Parsing,133,expected
+117,11368,00:02:15,Parsing,135,expected
+117,11368,00:00:22,Caching,22,slow
+117,11368,00:00:02,Dashboard Processing,2,expected
+117,11368,00:00:03,Panacea 1 Processing,3,slow
+117,11368,00:00:19,Log Anomaly Processing,19,slow
+117,11368,00:00:00,Downloading,0,expected
+117,11368,00:00:38,Extracting,38,slow
+117,11368,00:00:00,Metrics Parsing,0,expected
+117,11368,00:02:19,Logs Parsing,139,expected
+117,11368,00:02:20,Parsing,140,expected
+117,11368,00:00:04,Caching,4,expected
+117,11368,00:00:05,Dashboard Processing,5,expected
+117,11368,00:00:03,Panacea 1 Processing,3,slow
+117,11368,00:00:14,Log Anomaly Processing,14,expected
+117,11368,00:09:54,LLM Summary Processing,594,slow
+117,11368,00:13:22,Total Time,802,slow
+118,43,00:00:03,Downloading,3,expected
+118,43,00:00:01,Extracting,1,expected
+118,43,00:00:00,Metrics Parsing,0,expected
+118,43,00:00:02,Logs Parsing,2,expected
+118,43,00:00:03,Parsing,3,expected
+118,43,00:00:02,Caching,2,expected
+118,43,00:00:00,Dashboard Processing,0,expected
+118,43,00:00:02,Panacea 1 Processing,2,expected
+118,43,00:01:28,Log Anomaly Processing,88,extremely slow
+118,43,00:11:46,Total Time,706,slow
+119,15522,00:00:14,Downloading,14,slow
+119,15522,00:00:55,Extracting,55,slow
+119,15522,00:01:09,Metrics Parsing,69,expected
+119,15522,00:07:39,Logs Parsing,459,slow
+119,15522,00:07:41,Parsing,461,slow
+119,15522,00:00:16,Caching,16,slow
+119,15522,00:00:01,Dashboard Processing,1,expected
+119,15522,00:00:03,Panacea 1 Processing,3,slow
+119,15522,00:00:03,Log Anomaly Processing,3,expected
+119,15522,00:19:16,Total Time,1156,slow
+120,4,00:00:02,Downloading,2,expected
+120,4,00:00:01,Extracting,1,expected
+120,4,00:00:00,Metrics Parsing,0,extremely slow
+120,4,00:00:01,Logs Parsing,1,expected
+120,4,00:00:03,Parsing,3,expected
+120,4,00:00:02,Caching,2,expected
+120,4,00:00:00,Dashboard Processing,0,expected
+120,4,00:00:02,Panacea 1 Processing,2,expected
+120,4,00:01:23,Log Anomaly Processing,83,extremely slow
+120,4,00:11:43,Total Time,703,slow
+121,35,00:00:02,Downloading,2,expected
+121,35,00:00:00,Extracting,0,expected
+121,35,00:00:00,Metrics Parsing,0,expected
+121,35,00:00:26,Logs Parsing,26,expected
+121,35,00:00:27,Parsing,27,expected
+121,35,00:00:03,Caching,3,expected
+121,35,00:00:00,Dashboard Processing,0,expected
+121,35,00:00:03,Panacea 1 Processing,3,slow
+121,35,00:00:23,Log Anomaly Processing,23,slow
+121,35,00:10:59,Total Time,659,slow
+122,772,00:00:06,Downloading,6,slow
+122,772,00:00:10,Extracting,10,extremely slow
+122,772,00:00:00,Metrics Parsing,0,expected
+122,772,00:00:01,Logs Parsing,1,expected
+122,772,00:00:03,Parsing,3,expected
+122,772,00:00:01,Caching,1,expected
+122,772,00:00:01,Dashboard Processing,1,expected
+122,772,00:00:02,Panacea 1 Processing,2,expected
+122,772,00:00:17,Log Anomaly Processing,17,slow
+122,772,00:10:40,Total Time,640,slow
+124,4302,00:00:05,Downloading,5,expected
+124,4302,00:00:22,Extracting,22,extremely slow
+124,4302,00:03:51,Logs Parsing,231,slow
+124,4302,00:04:03,Metrics Parsing,243,slow
+124,4302,00:04:05,Parsing,245,slow
+124,4302,00:00:14,Caching,14,slow
+124,4302,00:00:11,Dashboard Processing,11,slow
+124,4302,00:00:03,Panacea 1 Processing,3,slow
+124,4302,00:00:12,Log Anomaly Processing,12,expected
+124,4302,00:09:21,LLM Summary Processing,561,slow
+124,4302,00:14:35,Total Time,875,slow
+128,10023,00:00:07,Downloading,7,expected
+128,10023,00:00:32,Extracting,32,slow
+128,10023,00:02:31,Metrics Parsing,151,slow
+128,10023,00:04:20,Logs Parsing,260,slow
+128,10023,00:04:23,Parsing,263,slow
+128,10023,00:00:47,Caching,47,extremely slow
+128,10023,00:00:08,Dashboard Processing,8,slow
+128,10023,00:00:03,Panacea 1 Processing,3,slow
+128,10023,00:00:02,Log Anomaly Processing,2,expected
+128,10023,00:16:05,Total Time,965,slow
+129,16754,00:02:34,Downloading,154,slow
+129,16754,00:00:55,Extracting,55,slow
+129,16754,00:01:28,Metrics Parsing,88,expected
+129,16754,00:02:05,Logs Parsing,125,expected
+129,16754,00:02:07,Parsing,127,expected
+129,16754,00:00:16,Caching,16,slow
+129,16754,00:00:00,Dashboard Processing,0,expected
+129,16754,00:00:03,Panacea 1 Processing,3,slow
+129,16754,00:00:06,Log Anomaly Processing,6,expected
+129,16754,00:02:40,LLM Summary Processing,160,expected
+129,16754,00:08:46,Total Time,526,expected
+130,3228,00:00:05,Downloading,5,expected
+130,3228,00:00:12,Extracting,12,slow
+130,3228,00:00:51,Metrics Parsing,51,slow
+130,3228,00:02:05,Logs Parsing,125,slow
+130,3228,00:02:07,Parsing,127,slow
+130,3228,00:00:16,Caching,16,slow
+130,3228,00:00:01,Dashboard Processing,1,expected
+130,3228,00:00:02,Panacea 1 Processing,2,expected
+130,3228,00:00:05,Log Anomaly Processing,5,expected
+130,3228,00:03:32,LLM Summary Processing,212,slow
+130,3228,00:06:22,Total Time,382,slow
+132,10187,00:00:07,Downloading,7,expected
+132,10187,00:00:26,Extracting,26,slow
+132,10187,00:03:09,Metrics Parsing,189,slow
+132,10187,00:06:03,Logs Parsing,363,slow
+132,10187,00:06:05,Parsing,365,slow
+132,10187,00:00:10,Caching,10,expected
+132,10187,00:00:26,Dashboard Processing,26,extremely slow
+132,10187,00:00:03,Panacea 1 Processing,3,slow
+132,10187,00:00:12,Log Anomaly Processing,12,expected
+132,10187,00:05:53,LLM Summary Processing,353,slow
+132,10187,00:13:24,Total Time,804,slow
